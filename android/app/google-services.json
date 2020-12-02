@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "14942880093",
+    "firebase_url": "https://missing-person-dc23a.firebaseio.com",
+    "project_id": "missing-person-dc23a",
+    "storage_bucket": "missing-person-dc23a.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:14942880093:android:7d314d18e114dd6927e8b4",
+        "android_client_info": {
+          "package_name": "com.missing"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "14942880093-na0q6sumt0s3aqbs7ch8g7n8fhv11ko4.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.missing",
+            "certificate_hash": "a004925a74cac4c41291fd9a64375abd6ccd53cc"
+          }
+        },
+        {
+          "client_id": "14942880093-j4kj9sam1knaocorluo5vdrtr94ro2fv.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAfl5eUCgmc8LzKBGQp4gyq2fNHKmWz4gs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "14942880093-j4kj9sam1knaocorluo5vdrtr94ro2fv.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
